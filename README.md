@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @D-sumanth
-- 👀 I’m interested in Data Science, IoT and Cloud computing. 
-- 🌱 I’m currently working as Embedded System Engineer.
+- 👋 Hi, I’m @Neil
+- 👀 I’m interested in Data Science and developing custom solutions. 
+- 🌱 I’m currently working as Full stack developer and project developer.
 - 📫 How to reach me - connect with me in linked in https://www.linkedin.com/in/neil-sumanth-1306/ or mail me at sumanthdev03@gmail.com
 
 <!---
