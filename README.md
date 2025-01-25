@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @Neil
-- 👀 I’m interested in Data Science and developing custom solutions. 
-- 🌱 I’m currently working as Full stack developer and project developer.
-- 📫 How to reach me - connect with me in linked in https://www.linkedin.com/in/neil-sumanth-1306/ or mail me at sumanthdev03@gmail.com
+- 👋 Hi, I’m **Sumanth (Neil)**  
+- 👀 I’m passionate about **Data Science, full-stack development**, and building innovative, custom solutions to solve real-world challenges.  
+- 🌱 Currently, I’m working as a **Full-Stack Developer and Project Lead**, continuously honing my skills in backend, frontend, and project management while exploring new technologies.  
+- 📫 Let’s connect!  
+  - LinkedIn: [Neil Sumanth](https://www.linkedin.com/in/neil-sumanth-1306/)  
+  - Email: **sumanthdev03@gmail.com**  
 
-<!---
-D-sumanth/D-sumanth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 **Feel free to explore my projects and contributions to see how I leverage technology to create meaningful impact!**
